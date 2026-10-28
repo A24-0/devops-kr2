@@ -1,3 +1,4 @@
+# KR2: Grishutina
 import os
 import socket
 
